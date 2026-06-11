@@ -7,3 +7,4 @@ easyocr
 Pillow
 torch
 torchvision
+matplotlib
